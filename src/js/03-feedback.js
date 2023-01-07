@@ -1,4 +1,4 @@
-"use strict";
+
 import throttle from 'lodash.throttle';
 
 const filterForm = document.querySelector(`form.feedback-form`);
